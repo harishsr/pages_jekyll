@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Who I Am"
+author: "Harish S. Ramachandran"
+date:   2017-12-15 09:00:00 -0500
+categories: jekyll update
+---
+This is interesting, and kinda exciting.  I feel like I'm learning something
+new and cool.  
